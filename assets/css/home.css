@@ -523,4 +523,13 @@
   .kritik .heading7 {
     text-align: center;
   }
+
+  .fasilitas2{
+    flex-direction: column;
+  }
+
+  .fasilitas2 .col, 
+  .fasilitas2 .boxContainer {
+    width: 100%;
+  }
 }
